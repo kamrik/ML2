@@ -13,7 +13,7 @@
 Note: 
 
 #### Download and installation
- - Download the zip file from here (click I agree) - https://cntk.ai/dlwg-2.6.html
+ - Download the zip file from here (click "I accept" at the bottom) - https://cntk.ai/dlwg-2.6.html
  - Unzip
  - cd to cntk\Scripts\install\windows\
  - Run `install.bat  -AnacondaBasePath E:\Anaconda3 -PyVersion 36`
