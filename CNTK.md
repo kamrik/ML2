@@ -1,6 +1,4 @@
 ## Installing CNTK on Windows
-Note: CNTK will donwload several GB of data during installation.
-
 
 #### Before you begin
  * Do I have to do this?
