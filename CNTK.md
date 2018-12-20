@@ -14,10 +14,10 @@ Note:
 
 #### Download and installation
  - Download the zip file from here (click "I accept" at the bottom) - https://cntk.ai/dlwg-2.6.html
- - Unzip
+ - Unzip the file (e.g. into C:\ProgramData\CNTK)
  - cd to cntk\Scripts\install\windows\
- - Run `install.bat  -AnacondaBasePath E:\Anaconda3 -PyVersion 36`
-    - Replace E:\Anaconda3 with the path where you want Anaconda to be installed
+ - Run `install.bat  -AnacondaBasePath C:\ProgramData\Anaconda3 -PyVersion 36`
+    - Replace C:\ProgramData\Anaconda3 with the path where you want Anaconda to be installed
  - When done, the script will display some info, the useful part is the location of the activation script:
    - <dir were you unzipped cntk>\cntk\scripts\cntkpy36.bat  
 
