@@ -3,6 +3,7 @@
 ## Book
  - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) by François Chollet
    - [Online audio version](https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-1/) (karaoke style, first 3 chapters are free)
+   - The audio version is also [available on Audible](https://www.audible.com/pd/Deep-Learning-with-Python-Audiobook/B07H5TZ6KN)
  
 ## Introductory videos
  - [Neural networks playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by Grant Sanderson of 3blue1brown.com
