@@ -1,5 +1,8 @@
 # COMP 3132 - Python ML, part 2
 
+## Course outline
+ * [Draft](https://docs.google.com/document/d/13-xZCzKXh8en7wyOvsfpQGjdO1qTJFZuh_56rYE5Ymg/view)
+
 ## Book
  - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) by François Chollet
    - [Online audio version](https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-1/) (karaoke style, first 3 chapters are free)
