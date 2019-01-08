@@ -27,3 +27,11 @@
 - `import keras`
   - Check if it says during the import that it's using cntk as the backend and if it found the GPU
 
+
+
+Try running the following to see if your GPU is seen by CNTK ([related post](https://stackoverflow.com/questions/41613609/how-to-verify-the-usage-of-the-gpu) )
+```
+import cntk.device
+cntk.device.gpu(0)
+```
+
