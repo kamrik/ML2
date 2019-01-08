@@ -10,7 +10,6 @@
  * Any prerequisites?
    - CNTK comes with its own Anaconda, if you already have an Anaconda installation you may want to remove it. CNTK might be able to use your existing Anaconda, but the installation instructions are surprisingly specific about the Anaconda version CNTK needs.
 
-Note: 
 
 #### Download and installation
  - Download the zip file from here (click "I accept" at the bottom) - https://cntk.ai/dlwg-2.6.html
