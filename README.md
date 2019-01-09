@@ -28,3 +28,5 @@ conda install keras
 ```
 
 Test it by running `import keras` in python, you should see output like `Using TensorFlow backend` or `Using CNTK backend` - either is good. If you see any warnings about lack of GPU, that's also ok.
+
+If you have a recent Nvidia GPU you can try following the [CNTK instructions](CNTK.md) to istall the GPU version of CNTK but this is optional.
