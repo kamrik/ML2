@@ -4,7 +4,8 @@
  * Do I have to do this?
    - No, this is only needed if you want to take advantage of GPU computing
  * Will this work on any computer
-   - No, it only works if you have a GPU that can be used by CNTK
+   - No, it only works if you have a GPU that can be used by CNTK.
+   - According to Microsoft ([source](https://docs.microsoft.com/en-us/cognitive-toolkit/setup-gpu-specific-packages)): You can check whether your card is CUDA-compatible [here](https://developer.nvidia.com/cuda-gpus) and [here (for older cards)](https://developer.nvidia.com/cuda-legacy-gpus). Your GPU card [Compute Capability (CC)](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#compute-capability) must be 3.0 or more.
  * How large is it?
    - CNTK will download several GB of data during installation.
  * Any prerequisites?
