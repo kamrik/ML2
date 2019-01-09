@@ -1,6 +1,6 @@
 ## Home assignment 1 - Python refresher
  - Due date: Wednesday, January 23rd by end of day
- - Submission: email your your links to solutions (see below) to graderbot@kamrik.org
+ - Submission: email your solution links (see below) to graderbot@kamrik.org
    - No attachments, just the links
    - The bot will not reply
  - Grading: this is a pass/fail assignment, no partial grades - you either get 100 if graderbot has your links, or 0 if it doesn't.
