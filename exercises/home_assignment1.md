@@ -19,4 +19,4 @@ https://py.checkio.org/mission/most-wanted-letter/publications/testakamrik/pytho
 ```
 Email the 3 links to graderbot@kamrik.org
 
-![screenshot]()
+![screenshot](Checkio2.png)
