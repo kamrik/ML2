@@ -20,7 +20,7 @@ Note: This will take some time and download several hundred MB.
 
 If you already have Anacanoda, open Anaconda prompt and first update conda by running
 ```
-conda updata conda
+conda update conda
 ```
 Then install keras 
 ```
