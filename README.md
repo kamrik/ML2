@@ -37,3 +37,11 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
    * Chapter 1 of the book (available free on book website)
    * First 2 videos of the [Neural networks playlist from 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
  * Home assignment 1 - [exercises/home_assignment1.md](exercises/home_assignment1.md)  (due Jan 23rd)
+
+## Week 2
+ * [Slides](slides/02_week.ipynb)
+ * Lab - [exercises/convolution.ipynb](exercises/convolution.ipynb)
+ * Reading for next week:
+   * Chapter 2 of the book (skip the heavy math)
+   * The remaining 2 videos of the [Neural networks playlist from 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+ * Reminder: home assignment 1 is due Jan 23rd
