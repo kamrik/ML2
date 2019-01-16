@@ -40,7 +40,7 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
 
 ## Week 2
  * [Lecture slides](slides/02_week.ipynb)
-   * [Short animation showing the calculation of convolution in 1D](https://www.youtube.com/watch?v=ulKbLD6BRJA) (no audio)
+   * [Animation or 2D convolution](https://i.stack.imgur.com/uEoXw.gif)
    * [How Blurs & Filters Work - Computerphile](https://www.youtube.com/watch?v=C_zFhWdM4ic) (8 min)
  * Lab - [exercises/convolution.ipynb](exercises/convolution.ipynb)
  * Reading for next week:
