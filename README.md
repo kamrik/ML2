@@ -39,7 +39,9 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
  * Home assignment 1 - [exercises/home_assignment1.md](exercises/home_assignment1.md)  (due Jan 23rd)
 
 ## Week 2
- * [Slides](slides/02_week.ipynb)
+ * [Lecture slides](slides/02_week.ipynb)
+   * [Animation or 2D convolution](https://i.stack.imgur.com/uEoXw.gif)
+   * [How Blurs & Filters Work - Computerphile](https://www.youtube.com/watch?v=C_zFhWdM4ic) (8 min)
  * Lab - [exercises/convolution.ipynb](exercises/convolution.ipynb)
  * Reading for next week:
    * Chapter 2 of the book (skip the heavy math)
