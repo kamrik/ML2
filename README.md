@@ -47,3 +47,7 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
    * Chapter 2 of the book (skip the heavy math)
    * The remaining 2 videos of the [Neural networks playlist from 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
  * Reminder: home assignment 1 is due Jan 23rd
+
+## Week 3
+ * [Lecture slides](slides/03_week.ipynb)
+   * Review model evaluation techiques - videos #5 and #7 from [Kevin's sklearn videos](https://github.com/justmarkham/scikit-learn-videos)
