@@ -58,5 +58,7 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
 ## Week 4
  * [Lecture slides](slides/04_week.ipynb)
  * Lab - [exercises/boston_housing.md](exercises/boston_housing.md)
+ * Reading for next week:
+   * Book sections 3.5, 3.6, 3.7
 
    
