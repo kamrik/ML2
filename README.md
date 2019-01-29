@@ -54,3 +54,9 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
  * Reading for next week:
    * Review model evaluation techiques - videos #5 and #7 from [Kevin's sklearn videos](https://github.com/justmarkham/scikit-learn-videos)
    * Chapter 3 intro and sections 3.1, 3.2 and 3.4
+   
+## Week 4
+ * [Lecture slides](slides/04_week.ipynb)
+ * Lab - [exercises/boston_housing.md](exercises/boston_housing.md)
+
+   
