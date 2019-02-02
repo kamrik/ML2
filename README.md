@@ -60,5 +60,6 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
  * Lab - [exercises/boston_housing.md](exercises/boston_housing.md)
  * Reading for next week:
    * Book sections 3.5, 3.6, 3.7
+   * [Walkthrough of the MNIST example with Keras](https://www.youtube.com/watch?v=wQ8BIBpya2k)
 
    
