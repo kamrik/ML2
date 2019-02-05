@@ -1,4 +1,4 @@
- - Get the data from housing data competition
+ - Get the data from [Kaggle housing competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
  - Follow the lecture slides to train and evaluate several models on it
    - LinearRegression
    - KNN
