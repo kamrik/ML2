@@ -64,3 +64,4 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
 
 ## Week 5
  * [Lecture slides](slides/05_week.ipynb)
+ * Lab - [exercises/kaggle_housing.md](exercises/kaggle_housing.md)
