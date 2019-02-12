@@ -73,3 +73,9 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
  - Solve more lab exercises
  - From chapter 4 read till section 4.3
  - Read chapters 1 and 2 of the book
+#### Main topics and concepts to be familiar with
+ - Data manipulation in NumPy and Pandas
+ - Metrics used for evaluating and comparing ML models of different types
+ - Overfitting
+ - Train/validation/test data splitting and why we do this
+ - Concepts about neural nets - weights, layers, activation functions, loss functions
