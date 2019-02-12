@@ -69,7 +69,7 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
 ## Midterm prep advice
  - Solve lab exercises
  - Go over the [MNIST video from sentdex](https://www.youtube.com/watch?v=wQ8BIBpya2k)
- - Read chapters 3 the book (skip section 3.3)
+ - Read chapters 3 of the book (skip section 3.3)
  - Solve more lab exercises
  - From chapter 4 read till section 4.3
  - Read chapters 1 and 2 of the book
