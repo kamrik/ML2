@@ -65,8 +65,13 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
 ## Week 5
  * [Lecture slides](slides/05_week.ipynb)
  * Lab - [exercises/kaggle_housing.md](exercises/kaggle_housing.md)
+ 
+## Week 6
+ - There was no lecture
+ - Lab. Revising the MPG dataset using [this notebook](https://github.com/kamrik/ML1/blob/master/exercises/mpg_revisited.ipynb) from the previous semester. Replace the decision tree with a neural network.
 
-## Midterm prep advice
+## Week 7 - Midterm
+#### Prep advice
  - Solve lab exercises
  - Go over the [MNIST video from sentdex](https://www.youtube.com/watch?v=wQ8BIBpya2k)
  - Read chapters 3 of the book (skip section 3.3)
