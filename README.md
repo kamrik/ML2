@@ -84,3 +84,7 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
  - Overfitting
  - Train/validation/test data splitting and why we do this
  - Concepts about neural nets - weights, layers, activation functions, loss functions
+ 
+## Home assignment 2 - due March 13
+ - [Instructions](exercises/home_assignment2.md)
+ - This home assignment is also an excellent practice exercise for the midterm
