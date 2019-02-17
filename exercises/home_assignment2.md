@@ -1,6 +1,5 @@
 ## Home assignment 2 - Use recipe ingredients to categorize the cuisine on Kaggle
-
- - Read the instructions on the competition website
+ - Read the instructions on the competition website https://www.kaggle.com/c/ml2-assignment-2
  - Once you join the competition, you can make a submission by uploading a CSV file with your predictions to Kaggle using the big blue "Submit Predictions" button (see screenshot below).
  - You can make up to 5 submissions per day, so in order to iterate on your solution efficiently you must set up your own validation procedure
  - The best one will be shown on the [Leaderboard](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard)
@@ -10,8 +9,9 @@
    - 60 for 0.6
    - Scaled linearly between 0.6 and 0.8
    - 10 for a valid submission with score below 0.6
- - Submit your work by email to graderbot@kamrik.org make sure to include the following
+ - Submit your work by email to graderbot@kamrik.org , make sure to include the following
    1. Student ID
    1. The link to your Kaggle profile, looks like this: https://www.kaggle.com/kamrik
    1. Attachment with the code or notebook you used to generate the predictions
- - Due date is Wednesday, March 13 (by end of day)
+ - Note: This is a Kaggle InClass competition I created specifically for thie assignement, but it is based on [What's Cooking?](https://www.kaggle.com/c/whats-cooking) competition.
+ - Due date is Wednesday, March 13
