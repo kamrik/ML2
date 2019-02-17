@@ -4,7 +4,7 @@
  - Once you join the competition, you can make a submission by uploading a CSV file with your predictions to Kaggle using the big blue "Submit Predictions" button (see screenshot below).
  - You can make up to 5 submissions per day, so in order to iterate on your solution efficiently you must set up your own validation procedure
  - The best one will be shown on the [Leaderboard](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard)
- - To get a passing grade, you must have a submission on the Leaderboard with a score of 0.6 or above (which can be done by following the newswires example from the book)
+ - To get a passing grade, you must have a submission on the Leaderboard with a score of 0.6 or above (which can be done by following the newswires example from the book). The score is classification accuracy 0.6 means 60% of recipes classified correctly.
  - Higher score will get you a better grade
    - 100 for 0.8 or better
    - 60 for 0.6
