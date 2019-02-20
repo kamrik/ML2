@@ -14,4 +14,7 @@
    1. The link to your Kaggle profile, looks like this: https://www.kaggle.com/kamrik
    1. Attachment with the code or notebook you used to generate the predictions
  - Note: This is a Kaggle InClass competition I created specifically for thie assignement, but it is based on [What's Cooking?](https://www.kaggle.com/c/whats-cooking) competition.
+ - Good examples to start from:
+   - Yelp Lab from previous term: https://github.com/kamrik/ML1/blob/master/exercises/yelp.ipynb
+   - Newswire example from the book: https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/3.6-classifying-newswires.ipynb
  - Due date is Wednesday, March 13
