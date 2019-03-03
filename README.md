@@ -40,7 +40,7 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
 
 ## Week 2
  * [Lecture slides](slides/02_week.ipynb)
-   * [Animation or 2D convolution](https://i.stack.imgur.com/uEoXw.gif)
+   * [Animation of 2D convolution](https://i.stack.imgur.com/uEoXw.gif)
    * [How Blurs & Filters Work - Computerphile](https://www.youtube.com/watch?v=C_zFhWdM4ic) (8 min)
  * Lab - [exercises/convolution.ipynb](exercises/convolution.ipynb)
  * Reading for next week:
@@ -95,3 +95,8 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
  * Reading:
    - Chapter 5, sections 5.1 & 5.2
    - A great [article about convnets](https://www.codementor.io/james_aka_yale/convolutional-neural-networks-the-biologically-inspired-model-iq6s48zms) with historical background and intuitive explanation of how they work.
+   - Videos:
+     - [3 minute explanatioin of the convolution in convnets](https://www.youtube.com/watch?v=jajksuQW4mc) - from [this Udacity course](https://www.udacity.com/course/deep-learning--ud730)
+     - [Animation of 2D convolution](https://i.stack.imgur.com/uEoXw.gif)
+     - [How Blurs & Filters Work - Computerphile](https://www.youtube.com/watch?v=C_zFhWdM4ic) (8 min)
+     - [Lecture on convnets by Siraj Raval](https://www.youtube.com/watch?v=FTr3n7uBIuE)  (46 min)
