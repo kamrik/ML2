@@ -88,3 +88,9 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
 ## Home assignment 2 - due March 13
  - [Instructions](exercises/home_assignment2.md)
  - This home assignment is also an excellent practice exercise for the midterm
+ 
+## Week 8 - Intersession
+## Week 9
+ * [Lecture slides](slides/09_week.ipynb)
+ * Reading:
+   - Chapter 5, sections 5.1 & 5.2
