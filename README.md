@@ -92,6 +92,7 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
 ## Week 8 - Intersession
 ## Week 9
  * [Lecture slides](slides/09_week.ipynb)
+ * Lab - [exercises/convnets_mnist.md](exercises/convnets_mnist.md)
  * Reading:
    - Chapter 5, sections 5.1 & 5.2
    - A great [article about convnets](https://www.codementor.io/james_aka_yale/convolutional-neural-networks-the-biologically-inspired-model-iq6s48zms) with historical background and intuitive explanation of how they work.
