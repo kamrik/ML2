@@ -101,3 +101,6 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
      - [Animation of 2D convolution](https://i.stack.imgur.com/uEoXw.gif)
      - [How Blurs & Filters Work - Computerphile](https://www.youtube.com/watch?v=C_zFhWdM4ic) (8 min)
      - [Lecture on convnets by Siraj Raval](https://www.youtube.com/watch?v=FTr3n7uBIuE)  (46 min)
+     
+## Week 10
+ * [Lecture slides](slides/10_week.ipynb)
