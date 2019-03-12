@@ -104,3 +104,4 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
      
 ## Week 10
  * [Lecture slides](slides/10_week.ipynb)
+ * Lab - [exercises/pretrained.md](exercises/pretrained.md)
