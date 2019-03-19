@@ -106,6 +106,6 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
  * [Lecture slides](slides/10_week.ipynb)
  * Lab - [exercises/pretrained.md](exercises/pretrained.md)
 
-## Week 10
+## Week 11
  * [Lecture slides](slides/11_week.ipynb)
  * Lab - continue wroking on [exercises/pretrained.md](exercises/pretrained.md)
