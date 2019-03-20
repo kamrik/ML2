@@ -8,7 +8,6 @@
    - Note: it expects to see sub-folders for each class, in our case a subdir for cats and another for dogs. The reduced dataset is already structured in this way.
  * Use `plt.subplot()` and `plt.imshow()` to produce a 3 by 3 grid of 9 different versions of the same image for illustration of what modified images look like.
  * Create an instance of the pre-trained VGG16 model as done in notebook 5.3 but do include the fully conneted top. This is a complete model outputting class predictions. Try running it on several dog and cat images.
-   - Use input shape of 150 by 150 pixels like in notebook 5.3
    - How many different classes does this model predict?
    - What's the shape of the output of this network and why?
    - Use the `keras.applications.vgg16.decode_predictions()` function to convert outputs to text describing the classes (there are examples here https://keras.io/applications/ )
