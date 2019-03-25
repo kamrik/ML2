@@ -14,6 +14,7 @@
    - 10 for a valid submission with score below 0.3
  - Some starting points:
    - Notebook exploring the competition data [robots_EDA.ipynb](robots_EDA.ipynb)
+   - Optional: [RNNs - notebook 6.3](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/6.3-advanced-usage-of-recurrent-neural-networks.ipynb) and [Conv1D - notebook 6.4](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/6.4-sequence-processing-with-convnets.ipynb)
  - Submit your work by email to graderbot@kamrik.org , make sure to include the following
    1. Student ID
    1. The link to your Kaggle profile, looks like this: https://www.kaggle.com/kamrik
