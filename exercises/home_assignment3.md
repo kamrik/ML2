@@ -20,4 +20,4 @@
    1. Attachment with the code or notebook you used to generate the predictions
  - Due date:
    - Note that competition deadlines are at 11:59 PM UTC which translates to 7:59 PM Toronto time.
-   - Kaggle submission deadline is April 11th, email me the results by April 13.
+   - Kaggle submission deadline is April 11th, email your results by April 13.
