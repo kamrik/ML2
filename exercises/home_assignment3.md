@@ -8,9 +8,9 @@
  - To get a passing grade, you must have a submission on the Leaderboard with a score of 0.3 or above (which can be done by throwing all the data into a simple dense network). 
  - Higher score will get you a better grade
    - 100 if you make it into the top 100 on the Leaderboard
-   - 97 for 0.6 or better
+   - 96 for 0.5 or better
    - 60 for 0.3
-   - Scaled linearly between 0.3 and 0.6
+   - Scaled linearly between 0.3 and 0.5
    - 10 for a valid submission with score below 0.3
  - Some starting points:
    - Notebook exploring the competition data [robots_EDA.ipynb](robots_EDA.ipynb)
