@@ -19,5 +19,5 @@
    1. The link to your Kaggle profile, looks like this: https://www.kaggle.com/kamrik
    1. Attachment with the code or notebook you used to generate the predictions
  - Due date:
-   - Note that competition deadlines are at 11:59 PM UTC which translates to 7:59 PM Toronto time.
-   - Kaggle submission deadline is April 11th, email your results by April 13.
+   - Note that competition deadlines are at 11:59 PM UTC which translates to **7:59 PM Toronto time**.
+   - Kaggle submission deadline is **April 11**, email your results by April 13.
