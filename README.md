@@ -120,3 +120,4 @@ If you have a recent Nvidia GPU you can try following the [CNTK instructions](CN
  
 ## Week 13
  * [Lecture slides](slides/13_week.ipynb)
+ * Lab - [exercises/tuning.ipynb](exercises/tuning.ipynb)
